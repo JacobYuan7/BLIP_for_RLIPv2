@@ -1,1 +1,1 @@
-# BLIP_for_RLIPv2
+# This is the BLIP code for generating captions for RLIPv2. Feel free to use.
